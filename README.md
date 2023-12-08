@@ -1,7 +1,7 @@
 <h1 align="center">Uhm.. Hey, I think.</h1>
 <h3 align="center">You'll find nothing but trash here. Not even worth looking.</h3>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/983116031545458738?hideDiscrim=true&hideTimestamp=true&hideStatus=true)](https://discord.com/users/983116031545458738)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1029116788635598878?hideDiscrim=true&hideTimestamp=true&hideStatus=true)](https://discord.com/users/1029116788635598878)
 
 <details>
       <summary>Languages</summary>
