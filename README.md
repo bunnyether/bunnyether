@@ -12,4 +12,4 @@
 	
 yea.. that's literally it.
 
-[![forthebadge](https://raw.githubusercontent.com/BraveUX/for-the-badge/master/src/images/badges/designed-in-ms-paint.svg)](https://github.com/BraveUX/for-the-badge)
+[![forthebadge](https://forthebadge.com/images/badges/ohhh-i-get-what-this-is-now.svg)](https://forthebadge.com)
